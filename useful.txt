@@ -1,0 +1,26 @@
+JPA Encryption
+https://github.com/damienbeaufils/spring-data-jpa-encryption-example
+
+Vue.js auth Spring Security
+https://blog.sqreen.io/authentication-best-practices-vue/
+https://github.com/websanova/vue-auth
+http://www.svlada.com/jwt-token-authentication-with-spring-boot/
+https://github.com/auth0/blog/blob/master/_posts/2017-08-10-implementing-jwt-authentication-on-spring-boot.markdown
+
+
+take that!
+https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/
+https://github.com/callicoder/spring-security-react-ant-design-polls-app
+
+
+or read this!
+https://g00glen00b.be/spring-boot-jwt/
+https://github.com/szerhusenBC/jwt-spring-security-demo
+
+
+revision --> source Audit
+Extra Team, Version (nur revisierte Versionen werden deployed) --Y hash on .jar
+Web Server penetration tests
+Enryption REST/FILE System / on OS level
+
+
